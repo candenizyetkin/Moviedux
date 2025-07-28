@@ -37,6 +37,7 @@ body {
 .filter-bar {
   display: flex;
   justify-content: right;
+  
 }
 
 .filter-slot {
@@ -50,8 +51,9 @@ body {
   padding: 8px;
   margin: 10px;
   border-radius: 5px;
-  background-color: #fff;
-  color: #333;
+  background-color: #2c2c2c;
+  color: #fff;
+  border-color: #2c2c2c;
 }
 
 /* Movies Grid Styles */
